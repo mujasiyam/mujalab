@@ -84,10 +84,10 @@
 <br><br>
 
 <!-- GITHUB STATUS -->
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujalab&show_icons=true&locale=en&layout=compact" alt="mujalab" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujalab&show_icons=true&locale=en&layout=compact"  height="200" width="300" alt="mujalab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujalab&show_icons=true&locale=en" alt="mujalab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujalab&show_icons=true&locale=en" height="200" width="300" alt="mujalab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujalab&" alt="mujalab" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujalab&" height="200" width="300" alt="mujalab" /></p>
 
 <!---------------------------------------------- END -------------------------------------------------->
