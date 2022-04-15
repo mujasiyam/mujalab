@@ -1,8 +1,10 @@
 <!---------------------------------------------- START ------------------------------------------------->
-
+<!-- LOGO -->
 <h1 align="center">Hi 👋, I'm Muja</h1>
+<!-- DISCRIPTION -->
 <h3 align="center">A Critical Thinker Artist and Open source developer founder of <a href="https://foss.land/" target="_blank">Fossland</a>.</h3>
 
+<!-- REPRESENTING -->
 - 🔭 I’m currently working on [BitOS](https://github.com/mujalab/bitos)
 - 📝 I regularly write articles on [https://blog.foss.land/](https://blog.foss.land/)
 - 🌱 I’m currently learning ...
@@ -12,6 +14,23 @@
 - 📫 How to reach me **muja@foss.land**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!---------------------------------------------- CONTACTS ---------------------------------------------->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/mujalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mujalab" height="30" width="40" /></a>
+<a href="https://dev.to/mujalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mujalab" height="30" width="40" /></a>
+<a href="https://twitter.com/mujaofficiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mujaofficiel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mujalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mujalab" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/mujalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mujalab" height="30" width="40" /></a>
+<a href="https://codesandbox.com/mujalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mujalab" height="30" width="40" /></a>
+<a href="https://fb.com/mujaofficiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mujaofficiel" height="30" width="40" /></a>
+<a href="https://instagram.com/mujaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mujaofficial" height="30" width="40" /></a>
+<a href="https://medium.com/@mujalab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mujalab" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/muja lab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muja lab" height="30" width="40" /></a>
+<a href="/https://foss.land/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://foss.land/" height="30" width="40" /></a>
+</p>
+
 
 <!---------------------------------------------- LANGUAGES AND TOOLS ----------------------------------->
 <h3 align="left">Languages and Tools:</h3>
@@ -54,17 +73,18 @@
 </p>
 
 
-<!---------------------------------------------- SUPPORT ------------------------------------------------>
-<h3 align="left">Support:</h3>
-<p>
+<!---------------------------------------------- SUPPORT AND LINKS---------------------------------------------->
+<!-- SUPPORT -->
+<h3 align="center">Support:</h3>
+<p align="center">
   <a href="https://www.buymeacoffee.com/mujalab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mujalab" /></a>
   <a href="https://www.patreon.com/mujalab"> <img align="left" src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="50" width="210" alt="mujalab" /></a>
   <a href="https://ko-fi.com/mujalab"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mujalab" /></a>
 </p>
-
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujalab&show_icons=true&locale=en&layout=compact" alt="mujalab" /></p>
+<!-- GITHUB STATUS -->
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujalab&show_icons=true&locale=en&layout=compact" alt="mujalab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujalab&show_icons=true&locale=en" alt="mujalab" /></p>
 
