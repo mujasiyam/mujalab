@@ -5,7 +5,7 @@
 <h3 align="center">A Critical Thinker Artist and Open source developer founder of <a href="https://foss.land/" target="_blank">Fossland</a>.</h3>
 
 <!-- REPRESENTING -->
-- 🔭 I’m currently working on [BitOS](https://github.com/mujalab/bitos)
+- 🔭 I’m currently working on [BitOS](https://github.com/fossland/bitos)
 - 📝 I regularly write articles on [https://blog.foss.land/](https://blog.foss.land/)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
