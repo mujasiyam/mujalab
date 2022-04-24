@@ -2,7 +2,7 @@
 <!-- LOGO -->
 <h1 align="center">Hi 👋, I'm Muja</h1>
 <!-- DISCRIPTION -->
-<h3 align="center">A Critical Thinker Artist and Open source developer founder of <a href="https://foss.land/" target="_blank">Fossland</a>.</h3>
+<h3 align="center">A Critical Thinker Artist and Open source developer founder of <a href="https://github.com/fossland" target="_blank">Fossland</a>.</h3>
 
 <!-- REPRESENTING -->
 - 🔭 I’m currently working on [BitOS](https://github.com/fossland/bitos)
