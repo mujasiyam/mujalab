@@ -84,10 +84,10 @@
 <br><br>
 
 <!-- GITHUB STATUS -->
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujalab&show_icons=true&locale=en&layout=compact"  height="200" width="300" alt="mujalab" /></p>
+<p> &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=mujalab&theme=tokyonight&show_icons=true&locale=en" height="200" width="250" alt="mujalab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujalab&show_icons=true&locale=en" height="200" width="300" alt="mujalab" /></p>
+<p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujalab&theme=tokyonight&show_icons=true&locale=en&layout=compact"  height="200" width="300" alt="mujalab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujalab&" height="200" width="300" alt="mujalab" /></p>
+<p> &nbsp; <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mujalab&theme=tokyonight&" height="200" width="300" alt="mujalab" /></p>
 
-<!---------------------------------------------- END -------------------------------------------------->
+<!---------------------------------------------- END ----------------------------------------------------------->
